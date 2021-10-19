@@ -4,7 +4,7 @@ To initiate
 -yarn i
 
 to create DB 
--yarn prisma migration dev
+-yarn prisma migrate dev
 
 to vizualize DB 
 -yarn prisma studio
