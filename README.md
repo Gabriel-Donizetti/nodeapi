@@ -1,6 +1,6 @@
 # nodeapi
 
-#To initiate 
+To initiate 
 -yarn i
 
 to create DB 
