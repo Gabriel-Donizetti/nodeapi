@@ -1,7 +1,7 @@
 # nodeapi
 
 To initiate 
--yarn i
+-yarn 
 
 to create DB 
 -yarn prisma migrate dev
